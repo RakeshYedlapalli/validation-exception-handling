@@ -1,2 +1,2 @@
 # validation-exception-handling
-This is spring boot project for learning validation-exception-handling
+Spring Request validation &amp; Exception Handling Realtime example
